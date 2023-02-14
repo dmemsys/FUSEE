@@ -1,0 +1,14 @@
+build/
+.vscode
+ycsb-test/workloads/*
+micro-test/micro-workloads/*
+ycsb-test/upd-workloads/*
+*.ipynb
+workloads.tgz
+micro-workloads.tgz
+upd-workload.tgz
+setup/workloads
+setup/install/
+setup/micro-workloads/
+setup/upd-workloads.tgz
+setup/upd-workloads/

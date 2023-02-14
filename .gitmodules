@@ -1,0 +1,3 @@
+[submodule "ycsb-test/YCSB-C"]
+	path = ycsb-test/YCSB-C
+	url = https://gitee.com/bernardshen/YCSB-C.git
